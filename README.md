@@ -11,9 +11,8 @@
 <h3 align="center">GETTING STARTED WITH SWIFTUI </h3>
 
   <p align="center">
-    Fructus app is an iOS app that show a list of fruits and its details. <br>
-    The main goal of this project is to show you how simple SwiftUI can be. <br>
-    I have started my learning journey of SwiftUI and would love to share with you my progress as well as helping you get into it. <br> 
+    Fructus app is an iOS app that shows a list of fruits and its details. <br>
+    The main goal of this project is to show you how simple SwiftUI can be as well as helping you get into it. <br> 
   </p>
 </div>
 
